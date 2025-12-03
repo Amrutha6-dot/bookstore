@@ -1,6 +1,6 @@
 // Sample book data
 const books = [
-    { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald", category: "Classic", price: 10.99, image: "images/gatsby.jpg" },
+    { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald", category: "Classic", price: 10.99, image: "images/gatspy.jpg" },
     { id: 2, title: "Atomic Habits", author: "James Clear", category: "Non-Fiction", price: 8.99, image: "images/atomich.jpg" },
     { id: 3, title: "To Kill a Mockingbird", author: "Harper Lee", category: "Classic", price: 12.99, image: "images/mockingbird.jpg" },
     { id: 4, title: "A Brief History of Time", author: "Stephen Hawking", category: "Science", price: 15.99, image: "images/briefhistory.jpg" },
